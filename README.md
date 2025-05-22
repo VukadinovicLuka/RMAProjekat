@@ -73,7 +73,7 @@ The Catapult app provides a rich user experience for cat enthusiasts. It feature
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nivancev-raf/Catapult.git
+git clone https://github.com/VukadinovicLuka/RMAProjekat.git
 ```
 2. Open the project in Android Studio:
 ```bash
