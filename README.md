@@ -91,7 +91,7 @@ cd Catapult
 - Switch Themes: The app supports both light and dark themes, which can be toggled in the system settings.
 
 ## Documentation
-Complete project documentation, including detailed functional requirements, technical specifications, and API details, is available in the docs/ directory of the repository or in the provided exam project specification (Ispitni Projekat.docx).
+Complete project documentation, including detailed functional requirements, technical specifications, and API details, is available in the provided exam project specification (Ispitni Projekat.docx).
 
-##Contact
+## Contact
 For questions, feedback, or support, please reach out to luka.zarkovo29@gmail.com.
